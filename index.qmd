@@ -1,6 +1,18 @@
 ---
-title: "YOUR TITLE GOES HERE"
+title: "HAPPY GILRL"
 ---
+#*ABOUT ME*
+## I am Zhuohan Sun.I come from China.I am student from class of STA9750 in the spring 2025 semeter. 
+
+```{mermaid}
+flowchart LR
+A[Eduction]-->B(Bachelor's of Business Mangament)
+A-->C(Bachelor's of Business Markting )
+B-->D[Master's of Science in Business Analytic]
+C-->D[Master's of Science in Business Analytic]
+```
+
+
 
 ```{r}
 #| include: false
@@ -9,4 +21,3 @@ title: "YOUR TITLE GOES HERE"
 --------------
 Last Updated: `r format(Sys.time(), "%A %m %d, %Y at %H:%M%p")`
 
-We have put a new website here.
