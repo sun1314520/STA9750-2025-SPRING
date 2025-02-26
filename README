@@ -1,3 +1,4 @@
 materials for STA 9750 at Baruch College. 
 
 Owner: <ZHUOHAN>
+source("https://michael-weylandt.com/STA9750/load_helpers.R")
