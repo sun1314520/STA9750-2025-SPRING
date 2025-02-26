@@ -2,8 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "YOUR TITLE GOES HERE",
+    "title": "HAPPY GILRL",
     "section": "",
-    "text": "Last Updated: Wednesday 02 12, 2025 at 20:30PM\nWe have put a new website here."
+    "text": "#ABOUT ME"
+  },
+  {
+    "objectID": "index.html#i-am-zhuohan-sun.i-come-from-china.i-am-student-from-class-of-sta9750-in-the-spring-2025-semeter.",
+    "href": "index.html#i-am-zhuohan-sun.i-come-from-china.i-am-student-from-class-of-sta9750-in-the-spring-2025-semeter.",
+    "title": "HAPPY GILRL",
+    "section": "I am Zhuohan Sun.I come from China.I am student from class of STA9750 in the spring 2025 semeter.",
+    "text": "I am Zhuohan Sun.I come from China.I am student from class of STA9750 in the spring 2025 semeter.\n\n\n\n\n\nflowchart LR\nA[Eduction]--&gt;B(Bachelor's of Business Mangament)\nA--&gt;C(Bachelor's of Business Markting )\nB--&gt;D[Master's of Science in Business Analytic]\nC--&gt;D[Master's of Science in Business Analytic]\n\n\n\n\n\n\n\nLast Updated: Thursday 02 13, 2025 at 00:14AM\nWe have put a new website here."
   }
 ]
